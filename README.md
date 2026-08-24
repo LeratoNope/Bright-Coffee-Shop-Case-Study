@@ -8,6 +8,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
@@ -18,8 +19,8 @@ The project analyzes daily transactional data from a coffee shop to uncover insi
 The workflow involved:
 - **Data Cleaning** in Databricks (handling inconsistent formats, creating time buckets, computing totals).  
 - **Data Visualization** using Excel, Power BI, Google Data Studio, and Loveable dashboards.  
+- **Project Planning** with Miro and Gantt charting via Canva.  
 - **Presentation** of insights and recommendations in Microsoft PowerPoint.  
-- **Planning & Architecture** diagrams created in Miro.  
 
 ---
 
@@ -35,11 +36,10 @@ The case study required answering key business questions:
 ## 🛠️ Tools & Technologies
 - **Data Processing**: Databricks, SQL  
 - **Data Visualization**: Excel, Power BI, Google Data Studio, Loveable  
+- **Project Planning**: Miro (Data Flow Diagrams), Canva (Gantt Charts)  
 - **Presentation**: Microsoft PowerPoint  
-- **Planning & Architecture**: Miro  
 
 ---
-
 
 ---
 
@@ -65,7 +65,10 @@ The case study required answering key business questions:
 ## 📢 Submission Guidelines
 This repository includes:
 - Miro Plan/Diagram  
+- Canva Gantt Chart  
 - Processed Dataset (Excel/Google Sheets with Pivot Tables & Charts)  
 - PowerPoint Presentation  
 - SQL Code File  
+
+
 
